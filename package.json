@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "readline-sync": "^1.4.10"
+  }
+}
